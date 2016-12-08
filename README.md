@@ -6,4 +6,4 @@ safe-mem means safe memory, which aims to prevent the applications from the memo
 
 1. Add a list to collect the bad pages.
 2. Add usermod helper to handle the errors.
-
+3. Avoid the affect of MCE handler on the machine equiped with ECC.
